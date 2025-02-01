@@ -7,7 +7,7 @@ DiscordLink: https://discord.com/channels/886293575128739860/1106527124388589579
 ModDBLink: https://www.moddb.com/mods/forgenerals
 NewsLink: https://www.moddb.com/mods/forgenerals/news/news-and-changes1#articlesform
 DependenceName: ''
-S3HostLink: gen.insave.ovh:9001
+S3HostLink: gen.insave.ovh:9000
 S3BucketName: forGenerals
 S3FolderName: forgenerals-individual-files
 S3HostPublicKey: ''
