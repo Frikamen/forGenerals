@@ -9,7 +9,7 @@ NewsLink: https://www.moddb.com/mods/forgenerals/news/mod-description1
 DependenceName: ''
 S3HostLink: gen.insave.ovh:9000
 S3BucketName: forgenerals
-S3FolderName: ''
+S3FolderName: forgenerals-individual-files
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: ''
