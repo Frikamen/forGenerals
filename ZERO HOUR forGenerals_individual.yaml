@@ -1,5 +1,5 @@
 ModificationType: Mod
-Name: forGenerals ****
+Name: forGenerals
 Version: 1.0.14.01
 SimpleDownloadLink: ''
 UIImageSourceLink: https://media.moddb.com/images/members/5/4832/4831340/profile/forGenerals_banner_500x100.jpg
@@ -8,8 +8,8 @@ ModDBLink: https://www.moddb.com/mods/forgenerals
 NewsLink: https://www.moddb.com/mods/forgenerals/news/mod-description1
 DependenceName: ''
 S3HostLink: gen.insave.ovh:9000
-S3BucketName: forgenerals
-S3FolderName: forgenerals-individual-files
+S3BucketName: ''
+S3FolderName: ''
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: ''
