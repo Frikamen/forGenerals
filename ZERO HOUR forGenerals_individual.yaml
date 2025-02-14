@@ -6,11 +6,11 @@ UIImageSourceLink: https://media.moddb.com/images/members/5/4832/4831340/profile
 DiscordLink: https://discord.gg/5RMy7MES
 ModDBLink: https://www.moddb.com/mods/forgenerals
 NewsLink: https://www.moddb.com/mods/forgenerals/news/mod-description1
-DependenceName: ''
+DependenceName: for Generals
 S3HostLink: gen.insave.ovh:9000
 S3BucketName: forgenerals
 S3FolderName: forgenerals-individual-files
 S3HostPublicKey: ''
 S3HostSecretKey: ''
-NetworkInfo: ''
+NetworkInfo: https://www.moddb.com/company/no-life-studios/tutorials/how-to-play-nls-mods-online
 SupportLink: https://ko-fi.com/forgenerals
