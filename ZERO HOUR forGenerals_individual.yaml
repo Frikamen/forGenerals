@@ -14,3 +14,17 @@ S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: https://www.moddb.com/company/no-life-studios/tutorials/how-to-play-nls-mods-online
 SupportLink: https://ko-fi.com/forgenerals
+ColorsInformation: &o0
+  GenLauncherBorderColor: '#7e96a7'
+  GenLauncherInactiveBorder: '#9fa1a2'
+  GenLauncherInactiveBorder2: '#7e96a7'
+  GenLauncherActiveColor: '#387cc5'
+  GenLauncherDarkFillColor: '#387cc5'
+  GenLauncherDarkBackGround: '#000000'
+  GenLauncherLightBackGround: '#000000'
+  GenLauncherDefaultTextColor: White
+  GenLauncherDownloadTextColor: White
+  GenLauncherListBoxSelectionColor2: '#27c9ff'
+  GenLauncherListBoxSelectionColor1: '#27c9ff'
+  GenLauncherButtonSelectionColor: '#7e96a7'
+  GenLauncherBackgroundImageLink: https://media.moddb.com/images/members/5/4832/4831340/profile/Genlauncher_Background_forGenera.png
