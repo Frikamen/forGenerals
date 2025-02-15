@@ -24,7 +24,7 @@ ColorsInformation: &o0
   GenLauncherLightBackGround: '#000000'
   GenLauncherDefaultTextColor: White
   GenLauncherDownloadTextColor: White
-  GenLauncherListBoxSelectionColor2: '#27c9ff'
-  GenLauncherListBoxSelectionColor1: '#27c9ff'
+  GenLauncherListBoxSelectionColor2: '#7e96a7'
+  GenLauncherListBoxSelectionColor1: '#7e96a7'
   GenLauncherButtonSelectionColor: '#7e96a7'
   GenLauncherBackgroundImageLink: https://media.moddb.com/images/members/5/4832/4831340/profile/Genlauncher_Background_forGenera.png
