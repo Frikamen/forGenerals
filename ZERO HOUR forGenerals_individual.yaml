@@ -1,7 +1,7 @@
 ModificationType: Mod
 Name: forGenerals
 Version: 1.0.18.02
-SimpleDownloadLink: https://www.moddb.com/mods/forgenerals/downloads/generalszh-forgenerals-v1-0-18-02
+SimpleDownloadLink: https://www.moddb.com/mods/forgenerals/downloads/forgenerals-v101802
 UIImageSourceLink: https://media.moddb.com/images/members/5/4832/4831340/profile/forGenerals_banner_500x100.jpg
 DiscordLink: https://discord.gg/5RMy7MES
 ModDBLink: https://www.moddb.com/mods/forgenerals
@@ -28,5 +28,6 @@ ColorsInformation: &o0
   GenLauncherListBoxSelectionColor1: '#7e96a7'
   GenLauncherButtonSelectionColor: '#7e96a7'
   GenLauncherBackgroundImageLink: https://media.moddb.com/images/members/5/4832/4831340/profile/Genlauncher_Background_forGenera.png
+
 
 
